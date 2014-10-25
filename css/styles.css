@@ -1,0 +1,16 @@
+.header{
+    font-size: 60px;
+    font: georgia;
+    text-align: center;
+}
+.buttons{
+    text-align: center;
+    size: 50px;
+}
+
+.yes, .no {
+    text-align: center;
+    font-size: 150%;
+}
+
+
